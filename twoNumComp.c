@@ -1,6 +1,7 @@
 /*
     * This is how multiple line commenting is done in c 
     * This program will teach you how to use a basic if else statement
+    *To check if 2 numbers are equal or not and prints the correct prompt
 */
 #include <stdio.h>
 int main(){
